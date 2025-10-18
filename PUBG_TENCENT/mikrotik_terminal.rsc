@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Total Prefixes: 294
 # --------------------------------------------
-# Maintainer: Sakib Mahmud
+# Maintainer: Amir Hosan
 # --------------------------------------------
 /ip firewall address-list
 add address=1.116.0.0/15 list=PUBG-TENCENT
