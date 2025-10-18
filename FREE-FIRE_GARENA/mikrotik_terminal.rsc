@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Total Prefixes: 147
 # --------------------------------------------
-# Maintainer: Sakib Mahmud
+# Maintainer: Amir Hosan
 # --------------------------------------------
 /ip firewall address-list
 add address=103.247.204.0/22 list=FreeFire-Garena
