@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Total Prefixes: 50
 # --------------------------------------------
-# Maintainer: Sakib Mahmud
+# Maintainer: Amir Hosan
 # --------------------------------------------
 /ip firewall address-list
 add address=103.208.252.0/22 list=IMO-PageBites
