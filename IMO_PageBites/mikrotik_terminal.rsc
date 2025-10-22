@@ -11,7 +11,6 @@
 # --------------------------------------------
 
 /ip firewall address-list
-/ip firewall address-list
 add address=5.150.156.0/24 list=IMO-PageBites
 add address=5.150.157.0/24 list=IMO-PageBites
 add address=5.150.158.0/24 list=IMO-PageBites
