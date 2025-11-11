@@ -13,6 +13,7 @@
 add address=www.ff.garena.com list=FreeFire-Garena
 add address=www.reward.ff.garena.com list=FreeFire-Garena
 add address=www.garena.sg list=FreeFire-Garena
+add address=148.222.64.0/19 list=FreeFire-Garena
 add address=103.247.204.0/22 list=FreeFire-Garena
 add address=103.247.204.0/24 list=FreeFire-Garena
 add address=103.247.205.0/24 list=FreeFire-Garena
