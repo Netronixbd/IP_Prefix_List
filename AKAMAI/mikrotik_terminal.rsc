@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Total Prefixes: 22902
 # --------------------------------------------
-# Maintainer: Sakib Mahmud
+# Maintainer: Amir Hosan
 # --------------------------------------------
 /ip firewall address-list
 add address=93.191.175.0/24 list=AKAMAI
