@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Total Prefixes: 183
 # --------------------------------------------
-# Maintainer: Sakib Mahmud
+# Maintainer: Amir Hosan
 # --------------------------------------------
 /ip firewall address-list
 add address=103.15.193.0/24 list=CDN77
