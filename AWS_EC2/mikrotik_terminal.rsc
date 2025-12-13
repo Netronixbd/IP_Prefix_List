@@ -7,7 +7,7 @@
 # --------------------------------------------
 # Total Prefixes: 1573
 # --------------------------------------------
-# Maintainer: Sakib Mahmud
+# Maintainer: Amir Hosan
 # --------------------------------------------
 /ip firewall address-list
 add address=1.178.1.0/24 list=AWS_EC2
